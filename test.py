@@ -5,6 +5,9 @@ September 2019
 File description:
     Test script to try out ideas with SQL, Pandas, and Python
 
+Tutorial resource:
+    https://towardsdatascience.com/sql-in-python-for-beginners-b9a4f9293ecf
+
 """
 ################################################################################
 # Imports
